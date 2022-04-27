@@ -1,0 +1,91 @@
+body{
+  height: 3000px;
+}
+
+.x{
+  background-color: black;
+  color: white;
+  position: absolute;
+  top: 15px;
+  right: 15px;
+  font-family: Arial;
+  font-size: 25px;
+  width: 50px;
+  height: 50px;
+  justify-content: center;
+  align-items: center;
+  display: flex;
+  border-radius: 25px;
+}
+
+.bottom-right{
+  background-color: gray;
+  position: fixed;
+  width: 320px;
+  height: 180px;
+  bottom: 15px;
+  right: 15px;
+}
+
+.space{
+  background-color: gray;
+  width: 320px;
+  height: 180px;
+  position: fixed;
+  bottom: 405px;
+  right: 200px;
+}
+.absolute{
+  background-color: black;
+  color: white;
+  position: absolute;
+  top: -18px;
+  right: 300px;
+  font-family: Arial;
+  font-size: 20px;
+  width: 40px;
+  height: 40px;
+  justify-content: center;
+  align-items: center;
+  border-radius: 25px;
+  display: flex;
+}
+
+.occupy{
+  background-color: gray;
+  width: 320px;
+  height: 180px;
+  bottom: 200px;
+  right: 200px;
+  position: fixed;
+}
+.absolute-x{
+  background-color: black;
+  color: white;
+  position: absolute;
+  top: -18px;
+  right: 300px;
+  font-family: Arial;
+  font-size: 20px;
+  width: 40px;
+  height: 40px;
+  justify-content: center;
+  align-items: center;
+  border-radius: 25px;
+  display: flex;
+}
+.video-time{
+  background-color: black;
+  color: white;
+  position: absolute;
+  bottom: 10px;
+  right: 10px;
+  padding-left: 8px;
+  padding-top: 3px;
+  padding-bottom: 3px;
+  padding-right: 8px;
+  font-family: Arial;
+}
+
+
+
